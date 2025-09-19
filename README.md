@@ -74,6 +74,11 @@ echo "Configuring MyApp for user $INSTALL_USER"
 # configuration script goes here
 ```
 
+### default run
+```sh
+echo "Starts the application for $INSTALL_USER"
+# ...
+```
 
 ---
 

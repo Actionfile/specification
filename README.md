@@ -25,7 +25,7 @@ An Actionfile is organized into **sections** with Markdown headers. Each section
 ### The following as specific changes that I use for my own [dotfiles](https://dotfiles.gbraad.nl)
 
   - [`action.zsh`](https://github.com/gbraad-dotfiles/upstream/blob/main/zsh/.zshrc.d/action.zsh)
-  - [`app.zsh`](https://github.com/gbraad-dotfiles/upstream/blob/main/zsh/.zshrc.d/app.zsh) and [`apps.md`](https://github.com/gbraad-redhat/actionfile/blob/main/actionfiles/apps.md)
+  - [`app.zsh`](https://github.com/gbraad-dotfiles/upstream/blob/main/zsh/.zshrc.d/app.zsh) and [`apps.md`](https://github.com/gbraad-dotfiles/applications/blob/main/apps.md)
   - [Application definitions](https://github.com/gbraad-dotfiles/applications)
 
 

@@ -62,6 +62,15 @@ APP_VERSION="1.2.3"
 COPFIG_REPO="..."
 ```
 
+### shared
+```sh
+shared_function() {
+   # ...
+}
+
+# other overrides
+```
+
 ## install
 
 Installs MyApp to the configured path.
